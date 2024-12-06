@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "locale": "en",
+    "language": "English"
+  },
+  "navigation": {
+    "path": "/",
+    "navbar": [
+      {
+        "title": "Home",
+        "url": "/"
+      }
+
+    ]
+  },
+  "pages": {
+    "index": {
+      "title": "LIGHT OF MOTIRAM: Defy the Machination, Survive with Mechanimals.",
+      "description": "LIGHT OF MOTIRAM is an open-world survival game in a post-apocalyptic world dominated by Mechanimals. Craft, explore, and survive in this unique adventure.",
+      "hero": {
+        "title": "LIGHT OF MOTIRAM: Defy the Machination, Survive with Mechanimals.",
+        "content": "Explore a vast post-apocalyptic landscape where human civilization has been overtaken by colossal mechanical creatures. Navigate through diverse biomes including lush tropical rainforests, barren deserts, and snow-capped mountains while scavenging for resources and building bases to survive.",
+        "media": {
+          "url": "/assets/openworld.jpeg",
+          "alt": "LIGHT OF MOTIRAM Hero Image",
+          "title": "LIGHT OF MOTIRAM"
+        },
+        "buttonText": "Get Access Now →"
+      },
+      "about": {
+        "title": "About LIGHT OF MOTIRAM",
+        "content": [
+          "LIGHT OF MOTIRAM is an upcoming open-world survival crafting game developed by Polaris Quest, a subsidiary of Tencent. The game is scheduled to be released on PC via Steam and Epic Games Store in 2025, as well as on PlayStation 5 and mobile platforms.",
+          "The reveal of LIGHT OF MOTIRAM has sparked mixed reactions from the gaming community. While some players appreciate its graphics and gameplay elements, others have raised discussions about originality in game design."
+        ]
+      },
+      "gameplay": {
+        "title": "Dive into the World of LIGHT OF MOTIRAM",
+        "subtitle": "Experience groundbreaking survival mechanics and innovative gameplay systems",
+        "content": [
+          {
+            "title": "LIGHT OF MOTIRAM: Open-World Exploration",
+            "content": "Navigate a vast post-apocalyptic landscape with diverse biomes, from lush rainforests to barren deserts and snow-capped mountains.",
+            "media": {
+              "url": "/assets/openworld.jpeg",
+              "alt": "Open World Exploration in LIGHT OF MOTIRAM",
+              "title": "World Exploration"
+            }
+          },
+          {
+            "title": "Mechanimal System",
+            "content": "Discover over 100 customizable creatures in LIGHT OF MOTIRAM. Tame and train these unique Mechanimals to assist in combat and resource gathering.",
+            "media": {
+              "url": "/assets/mechanimals.jpeg",
+              "alt": "Mechanimal System",
+              "title": "Mechanimals"
+            }
+          },
+          {
+            "title": "Strategic Combat",
+            "content": "Master Souls-like combat mechanics in LIGHT OF MOTIRAM, involving evasion, blocking, and counterattacking. Utilize Mechanimals against various foes.",
+            "media": {
+              "url": "/assets/combat.jpeg",
+              "alt": "Combat System",
+              "title": "Combat"
+            }
+          },
+          {
+            "title": "Base Building",
+            "content": "Create fortifications in LIGHT OF MOTIRAM using a physics-based system. Design visually stunning structures to withstand environmental challenges.",
+            "media": {
+              "url": "/assets/building.jpeg",
+              "alt": "Base Building System",
+              "title": "Base Building"
+            }
+          },
+          {
+            "title": "Cooperative Play",
+            "content": "LIGHT OF MOTIRAM supports up to 10 players in cooperative gameplay for adventures, resource gathering, and construction projects.",
+            "media": {
+              "url": "/assets/coop.jpeg",
+              "alt": "Cooperative Play",
+              "title": "Co-op"
+            }
+          },
+          {
+            "title": "Boss Encounters",
+            "content": "Face gigantic mechanized bosses in LIGHT OF MOTIRAM. Defeat them to obtain rare loot for crafting powerful weapons and items.",
+            "media": {
+              "url": "/assets/bosses.jpeg",
+              "alt": "Boss Encounters",
+              "title": "Bosses"
+            }
+          }
+        ]
+      },
+      "ingame": {
+        "title": "Explore More Fun Features of LIGHT OF MOTIRAM",
+        "subtitle": "Discover the extensive features that await you",
+        "content": [
+          {
+            "title": "Survival Mechanics",
+            "content": "Experience deep survival themes in LIGHT OF MOTIRAM where you scavenge for resources, construct bases, and defend against environmental hazards and mechanized foes."
+          },
+          {
+            "title": "Crafting System",
+            "content": "Craft weapons and tools using resources gathered from the environment and defeated enemies, essential for progressing through the game's challenges."
+          },
+          {
+            "title": "Mechanimal Customization",
+            "content": "LIGHT OF MOTIRAM allows you to personalize each Mechanimal with exclusive battle modes and production traits, enhancing their effectiveness in combat or resource management."
+          },
+          {
+            "title": "Dynamic Weather",
+            "content": "Adapt your strategies based on the game's dynamic weather system that affects gameplay and requires tactical adjustments."
+          },
+          {
+            "title": "Physics Simulation",
+            "content": "LIGHT OF MOTIRAM features realistic physics simulation in the building system, ensuring structures are not only visually appealing but also functional in the game world."
+          },
+          {
+            "title": "Cooperative Features",
+            "content": "Join forces with other players in LIGHT OF MOTIRAM to tackle challenging content and create impressive collaborative projects in the game world."
+          }
+        ]
+      },
+      "reviews": {
+        "title": "What Critics Say About LIGHT OF MOTIRAM",
+        "subtitle": "Reviews from gaming media",
+        "content": [
+          {
+            "name": "TheGamer",
+            "role": "Game Reviewer",
+            "content": "LIGHT OF MOTIRAM ticks all aesthetic boxes while being a compelling survival crafting game. The visuals and mechanics show promise, with unique features like robot animal companions and engaging combat systems."
+          },
+          {
+            "name": "IGN",
+            "role": "Gaming Media",
+            "content": "The game impresses with realistic survival mechanics and innovative features, from ventilating shelters to dynamic weather effects that influence gameplay decisions."
+          },
+          {
+            "name": "Game Rant",
+            "role": "Game Critic",
+            "content": "While drawing inspiration from existing titles, LIGHT OF MOTIRAM carves its own path with unique gameplay mechanics and an engaging open world that promises hours of exploration."
+          },
+          {
+            "name": "Combat Expert",
+            "role": "Game Analyst",
+            "content": "Combat seems to focus on locking onto enemies and fighting them like you would in a soulslike, with different weapons changing the flow of battle. The strategic depth is impressive."
+          },
+          {
+            "name": "Survival Game Guide",
+            "role": "Gaming Journalist",
+            "content": "Players will be able to recruit robot animals as pets or companions in battle, while also managing hundreds of realistic survival gameplay mechanics like ventilation and weather hazards."
+          },
+          {
+            "name": "Mechanimal Weekly",
+            "role": "Game Specialist",
+            "content": "The ability to befriend and raise various mechanimals alone or with friends adds a unique twist. They help with logging, farming, and crafting, making them integral to the survival experience."
+          }
+        ]
+      },
+      "faq": {
+        "title": "LIGHT OF MOTIRAM FAQs",
+        "subtitle": "Common questions about LIGHT OF MOTIRAM",
+        "content": [
+          {
+            "question": "When will LIGHT OF MOTIRAM be released?",
+            "answer": "LIGHT OF MOTIRAM is scheduled for release on PC via Steam and Epic Games Store in 2025. It will also be available on PlayStation 5 and mobile platforms."
+          },
+          {
+            "question": "What platforms will LIGHT OF MOTIRAM be available on?",
+            "answer": "LIGHT OF MOTIRAM will be available on PC (Steam and Epic Games Store), PlayStation 5, and mobile platforms."
+          },
+          {
+            "question": "Who is developing LIGHT OF MOTIRAM?",
+            "answer": "LIGHT OF MOTIRAM is being developed by Polaris Quest, a subsidiary of Tencent."
+          },
+          {
+            "question": "What type of game is LIGHT OF MOTIRAM?",
+            "answer": "It is an open-world survival crafting game set in a post-apocalyptic landscape where human civilization has been overtaken by colossal mechanical creatures known as Mechanimals."
+          },
+          {
+            "question": "What are Mechanimals in LIGHT OF MOTIRAM?",
+            "answer": "Mechanimals are customizable mechanized creatures that players can tame and train. There are over 100 different types, each with unique abilities and battle styles to assist in combat and resource gathering."
+          },
+          {
+            "question": "What environments can players explore?",
+            "answer": "Players can explore diverse biomes including lush tropical rainforests, barren deserts, and snow-capped mountains, each offering unique challenges and resources."
+          },
+          {
+            "question": "How does the combat system work?",
+            "answer": "LIGHT OF MOTIRAM's combat involves strategic evasion, blocking, and counterattacking, similar to the mechanics found in Souls-like games. Players can utilize Mechanimals in battles against various foes and gigantic mechanized bosses."
+          },
+          {
+            "question": "What is the base building system like?",
+            "answer": "The game features a physics-based building system that allows players to construct shelters and fortifications. These structures need to be functional and capable of withstanding environmental challenges."
+          },
+          {
+            "question": "How many players can play together?",
+            "answer": "LIGHT OF MOTIRAM supports cooperative gameplay for up to 10 players, allowing friends to team up for adventures, resource gathering, and construction projects."
+          },
+          {
+            "question": "What survival elements are in the game?",
+            "answer": "Players must scavenge for resources, construct bases, and defend against environmental hazards and mechanized foes. The game includes a comprehensive crafting system for creating weapons and tools."
+          },
+          {
+            "question": "How does the weather system affect gameplay?",
+            "answer": "The game features a dynamic weather system that affects gameplay, requiring players to adapt their strategies based on environmental conditions."
+          },
+          {
+            "question": "What customization options are available in LIGHT OF MOTIRAM?",
+            "answer": "In LIGHT OF MOTIRAM, each Mechanimal can be personalized with exclusive battle modes and production traits, enhancing their effectiveness in combat or resource management. The building system also allows for creative freedom in structure design."
+          }
+        ]
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy | LIGHT OF MOTIRAM",
+      "description": "Privacy policy for LIGHT OF MOTIRAM. Learn how we protect your information while you explore our content about this unique horror language deciphering game."
+    }
+  },
+  "common": {
+    "playNow": "Play Now",
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+    
+  },
+  "cta": {
+    "title": "Get LIGHT OF MOTIRAM Today",
+    "description": "Explore thrilling new worlds and prepare for the adventures of LIGHT OF MOTIRAM!",
+    "button": "Download Now →"
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "github": "Github",
+    "gitlink": "https://github.com/404daydreamer/light-of-motiram",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "languageSwitcher": {
+    "selectLanguage": "Select Language",
+    "currentLanguage": "English"
+  }
+}

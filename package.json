@@ -1,0 +1,16 @@
+{
+  "name": "lightofmotiram",
+  "version": "1.0.0",
+  "description": "LIGHT OF MOTIRAM: The Next Generation Free-to-Play Action RPG",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "eleventy-plugin-i18n": "^0.1.3"
+  }
+}
